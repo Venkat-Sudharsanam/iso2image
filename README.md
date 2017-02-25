@@ -4,7 +4,7 @@
 
 Ubuntu machine with docker to be installed in it. If docker is not installed kinly follow this [Tutorial](https://docs.docker.com/engine/installation/linux/ubuntu/)
 
-To test docker is installed follow the below step:
+To test docker is installed on your machine, follow the below step:
 
 ```
 docker version
