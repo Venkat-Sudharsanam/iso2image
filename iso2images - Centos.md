@@ -2,7 +2,7 @@
 
 Prerequisites:
 
-Docker to be insatlled on your machine. Kindly follow the repository tutorial.
+Docker to be insatlled on your machine. Kindly follow the official tutorial.
 Git should be installed. if not follow the below command:
 
 ```
