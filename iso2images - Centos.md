@@ -1,8 +1,9 @@
 ### This Repository is used to create docker base images on your Centos system.
 
-Prerequisites:
+#####Prerequisites:
 
 Docker to be insatlled on your machine. Kindly follow the official tutorial.
+
 Git should be installed. if not follow the below command:
 
 ```
