@@ -1,6 +1,6 @@
 ### This Repository is used to create docker base images on your Centos system.
 
-#####Prerequisites:
+##### Prerequisites:
 
 Docker to be insatlled on your machine. Kindly follow the official tutorial.
 
@@ -35,7 +35,7 @@ Now we can run the script to create a base image of ubuntu or centos. Script are
 cd docker/contrib/
 ```
 
-####Creating Ubuntu Image on Ubuntu Machine, follow the below command
+#### Creating Ubuntu Image on Ubuntu Machine, follow the below command
 
 ```
 ./mkimage-yum.sh schoolofdevops/centos
